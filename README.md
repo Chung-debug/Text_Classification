@@ -11,3 +11,9 @@ This sentiment analysis model can be deployed to automatically classify user-gen
 
 ---
 [Try the app online](https://nifghuufypraeikjke657q.streamlit.app/)
+
+## 📬 Contact
+
+For questions or collaboration inquiries, reach out via [favourchung7@gmail.com](mailto:favourchung7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/favour-chung/).
+
+---
