@@ -10,3 +10,4 @@ This project demonstrates a complete workflow for binary text classification usi
 This sentiment analysis model can be deployed to automatically classify user-generated reviews, helping businesses and platforms to monitor feedback, improve customer experience, and make data-driven decisions. Today, the model is being deployed as a web app, allowing users to input movie reviews and instantly receive sentiment predictions.
 
 ---
+[Try the app online](https://nifghuufypraeikjke657q.streamlit.app/)
